@@ -320,8 +320,9 @@ Yep. All I ask is that if you are marketing a competing service that you not use
 That is not a question, but to answer, I hope not. If I do fail, I have 10 more startups to launch within the next year. Follow me on my blog ([Anthony Graddy Blog](https://www.agraddy.com/)) or on [Twitter](https://twitter.com/agraddy) and watch me make more terrible business decisions. If nothing else, it should be fun and entertaining!
 
 ## Other DashboardQ Projects
-1\. [NumbersQ](https://www.numbersq.com/)
-Know your important numbers: [Launch Post](https://www.agraddy.com/startup-1-numbersq-know-the-state-of-your-business-in-30-seconds) | [Open Source Code](https://github.com/dashboardq/numbersq)
-2\. [TwitRiv](https://twitriv.com/)
+1\. [NumbersQ](https://www.numbersq.com/)  
+Know your important numbers: [Launch Post](https://www.agraddy.com/startup-1-numbersq-know-the-state-of-your-business-in-30-seconds) | [Open Source Code](https://github.com/dashboardq/numbersq)  
+
+2\. [TwitRiv](https://twitriv.com/)  
 Take control of your Twitter experience: [Launch Post](https://www.agraddy.com/startup-2-twitriv-control-your-twitter-experience) | [Open Source Code](https://github.com/dashboardq/twitriv)
 
