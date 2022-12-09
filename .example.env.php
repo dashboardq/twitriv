@@ -66,7 +66,8 @@ return [
     'AO_OUTPUT_HOOKS' => false,
 
     // DB
-    'DB_USE' => false,
+    'DB_USE' => true,
+    'DB_INSTALL' => true, // This is used to run the migrations from the home page. If you are using the command line, set this to false.
     'DB_TYPE' => 'mysql',
     'DB_HOST' => 'localhost',
     'DB_NAME' => 'example_com',
